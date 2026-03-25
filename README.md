@@ -110,15 +110,3 @@ mini-crm/
 │   └── apresentacao.gif
 └── index.html
 ```
-
-## 🚀 Como Executar
-
-```
-# Clonar o repositório
-git clone https://github.com/jjeanpedro03/mini-crm.git
-
-# Acessar a pasta
-cd mini-crm
-
-# Abrir no navegador
-index.html
